@@ -3,7 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  来点稿件搜索 - 优化版，图片缩小
-// @author       幽想
+// @author       幽想（原创）
+// @author
 // @match        https://www.acfun.cn/u/*
 // @license      GNU GPLv3
 // @grant        GM_addStyle
